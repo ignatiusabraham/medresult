@@ -2,6 +2,3 @@
 main update
 =======
 finest 4 
-
-fgr
-fgf
