@@ -1,0 +1,106 @@
+    1  pwd
+    2  cd ..
+    3  cd..
+    4  exit
+    5  pwd
+    6  cd ..
+    7  cd ..
+    8  cd www
+    9  cd medresults
+   10  cd medresult
+   11  dir
+   12  git init
+   13  dir
+   14  git add frist.txt
+   15  git commit
+   16  git commit
+   17  git init
+   18  git commit
+   19  git add frist.txt
+   20  git commit
+   21  git commit
+   22  git commit frist.txt
+   23  git config --global user.name "Ignatius Abraham"
+   24  git config --global user.email "ignatius_abraham@yahoo.com"
+   25  git help config
+   26  get status
+   27  git status
+   28  git add frist.txt
+   29  git status
+   30  git rm --cached frist.txt
+   31  git status
+   32  git add frist.txt
+   33  git status
+   34  git status
+   35  git status
+   36  git rm --cached frist.txt
+   37  git status
+   38  git status
+   39  git status
+   40  git add .
+   41  git status
+   42  git commit -m "starting commit - all files"
+   43  get status
+   44  git status
+   45  git status
+   46  git diff
+   47  git add 2.txt
+   48  git status
+   49  git restore --staged 2.txt
+   50  git status
+   51  git commit -a -m "updated 2.txt"
+   52  git rm --cached frist.txt
+   53  git status
+   54  git status
+   55  git restore frist.txt
+   56  git restore frist.txt
+   57  git restore frist.txt
+   58  git status
+   59  git add frist.txt
+   60  git commit
+   61  git status
+   62  git restore frist.txt
+   63  git mv frist.txt 4.txt
+   64  git commit -m "changed file name"
+   65  clear
+   66  git log
+   67  git log --oneline
+   68  git log -p
+   69  history
+   70  git branch fix4.txt
+   71  git branch
+   72  git switch fix4.txt
+   73  git branch
+   74  git status
+   75  git commit -a -m "updated in branch"
+   76  git switch main
+   77  git switch master
+   78  git merge -m "merget fix4"
+   79  git switch fix4.txt
+   80  git switch master
+   81  git merge -m "merget fix4" fix4.txt
+   82  git branch -d fix4.txt
+   83  git branch
+   84  git switch -c u4
+   85  git branch
+   86  git commit -a -m "updated in text fine"
+   87  git switch master
+   88  git commit -a -m "updated in text fine master "
+   89  git merge u4
+   90  git commit -a -m "updated in text fine master "
+   91  git remote add origin https://github.com/ignatiusabraham/medresult.git
+   92  git branch -M main
+   93  git push -u origin main
+   94  git push --all
+   95  clar
+   96  clear
+   97  get fetch
+   98  git fetch
+   99  git pull
+  100  git status
+  101  git status
+  102  git status > commands.txt
+  103  vi commands.txt
+  104  git  status
+  105  history
+  106  history > commands.txt
